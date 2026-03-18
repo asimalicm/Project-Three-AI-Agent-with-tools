@@ -1,4 +1,4 @@
-# Project 3: AI Agent with Tools (Function Calling)
+# Project Three: AI Agent with Tools (Function Calling)
 
 An autonomous AI agent that can use tools to accomplish tasks using the **ReAct pattern** (Reason → Act → Observe → Repeat).
 
